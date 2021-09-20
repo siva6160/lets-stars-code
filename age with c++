@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int age;
+    std::cout << "enter a number" << std::endl;
+    std::cin >> age;
+    cout<<"the age is  "<<age;
+}
